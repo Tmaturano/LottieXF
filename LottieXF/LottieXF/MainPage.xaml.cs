@@ -8,8 +8,6 @@ namespace LottieXF
 	{
 		public MainPage()
 		{
-            //https://blog.verslu.is/xamarin/xamarin-forms-xamarin/xamarin-app-lottie-animations/
-            //Lottie Files: https://www.lottiefiles.com/
             InitializeComponent();
 		}
 	}
